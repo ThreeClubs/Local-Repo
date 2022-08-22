@@ -4,5 +4,8 @@ function clickTest() {
     console.log(helloWorld);
 }
 
+clickTest() 
+
+
 
 
