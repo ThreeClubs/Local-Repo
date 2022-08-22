@@ -1,11 +1,6 @@
-let helloWorld = "Hello, World!";
+let button = document.getElementById("button");
+button.onclick = clickTest;
 
 function clickTest() {
-    console.log(helloWorld);
+  alert("Hello, World!");
 }
-
-clickTest() 
-
-
-
-
